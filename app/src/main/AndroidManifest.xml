@@ -19,6 +19,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LinearEquation"
+            android:label="@string/title_activity_linear_equation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".QuadraticEquation"
+            android:label="@string/title_activity_quadratic_equation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Square"
+            android:label="@string/title_activity_square"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cube"
+            android:label="@string/title_activity_cube"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

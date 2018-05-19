@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SolveMath</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_equation">LinearEquation</string>
+    <string name="title_activity_quadratic_equation">QuadraticEquation</string>
+    <string name="title_activity_square">Square</string>
+    <string name="title_activity_cube">Cube</string>
 </resources>
